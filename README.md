@@ -1,2 +1,2 @@
-# ReactPractis
+# ReactPractise
 React
